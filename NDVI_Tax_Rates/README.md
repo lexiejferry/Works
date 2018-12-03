@@ -1,4 +1,4 @@
-# Project-1
+# NDVI Tax Rates
 
 **A Comarision of Vegetation Presence to State Tax rates in Baltimore City**
 
